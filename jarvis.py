@@ -1,4 +1,4 @@
-    #pywhatkit.sendwhatmsg("+51970110165","Hola Soy Karla el asistente de voz de Elvis",18,32)
+   
 import speech_recognition as sr
 import pyttsx3 
 import pywhatkit
